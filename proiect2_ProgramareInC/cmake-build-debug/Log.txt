@@ -1,0 +1,45 @@
+User with account id: 1 logged in.
+User with account id: 2 logged in.
+User with account id: 2 logged in the financial account with id: 3.
+User with account id: 2 and financial account id: 3 made a transaction.
+User with account id: 2 and financial account id: 3 checked their account balance.
+User with account id: 2 and financial account id: 3 made an expense raport.
+User with account id: 2 and financial account id: 3 made an income raport.
+User with account id: 2 and financial account id: 3 made an account statement.
+User with account id: 2 and financial account id: 3 made an transaction register.
+User with account id: 2 changed their username.
+A new user with account id: 69 has been added.
+A new user with account id: 15 has been added.
+User with account id: 15 logged in.
+A new user with account id: 1 has been added.
+User with account id: 2 logged in.
+User with account id: 69 logged in.
+User with account id: 1 logged in.
+User with account id: 1 logged in.
+User with account id: 2 logged in.
+User with account id: 2 logged in.
+User with account id: 1 logged in.
+User with account id: 11 logged in.
+User with account id: 1 logged in.
+User with account id: 1 logged in.
+User with account id: 1 logged in.
+User with account id: 1 logged in.
+User with account id: 1 logged in.
+User with account id: 1 logged in.
+User with account id: 1 logged in.
+User with account id: 1 logged in.
+User with account id: 1 logged in.
+User with account id: 1 logged in.
+User with account id: 1 logged in.
+User with account id: 1 logged in.
+User with account id: 1 logged in.
+User with account id: 15 logged in.
+User with account id: 15 logged in.
+User with account id: 1 logged in.
+User with account id: 1 logged in.
+User with account id: 1 logged in.
+User with account id: 6 logged in.
+User with account id: 1 logged in.
+User with account id: 1 logged in.
+User with account id: 1 logged in.
+User with account id: 1 logged in.

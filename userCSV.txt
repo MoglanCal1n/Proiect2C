@@ -1,0 +1,5 @@
+1,2,1,1,1,1
+2,2,Moglan,alin,2,123
+3,2,Moglan,L,3,123
+4,2,Lola,lol,2,123
+3,7,Manta,olanta,2,1
